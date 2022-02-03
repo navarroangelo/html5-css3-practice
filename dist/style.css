@@ -1,3 +1,7 @@
+/* being used as reference for scss transformation */
+/* as of now, nesting is being implemented */
+/* nesting done for: common styles, header section, hero section, */
+
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
 
 /* common styles */
